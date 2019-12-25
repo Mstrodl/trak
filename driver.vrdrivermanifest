@@ -1,0 +1,8 @@
+{
+	"alwaysActivate": true,
+	"name" : "trak",
+	"directory" : "",
+	"resourceOnly" : false,
+	"hmd_presence" : [],
+	"other_presence": ["1209.000A"]
+}

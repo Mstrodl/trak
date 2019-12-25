@@ -1,0 +1,6 @@
+\#*\#
+.\#*\#
+.tern-port
+*~
+cmake_build
+*.so
